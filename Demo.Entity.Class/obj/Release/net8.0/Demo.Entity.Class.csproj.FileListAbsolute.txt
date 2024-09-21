@@ -1,0 +1,11 @@
+D:\Demo\Demo.Entity.Class\bin\Release\net8.0\Demo.Entity.Class.deps.json
+D:\Demo\Demo.Entity.Class\bin\Release\net8.0\Demo.Entity.Class.dll
+D:\Demo\Demo.Entity.Class\bin\Release\net8.0\Demo.Entity.Class.pdb
+D:\Demo\Demo.Entity.Class\obj\Release\net8.0\Demo.Entity.Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\Demo.Entity.Class\obj\Release\net8.0\Demo.Entity.Class.AssemblyInfoInputs.cache
+D:\Demo\Demo.Entity.Class\obj\Release\net8.0\Demo.Entity.Class.AssemblyInfo.cs
+D:\Demo\Demo.Entity.Class\obj\Release\net8.0\Demo.Entity.Class.csproj.CoreCompileInputs.cache
+D:\Demo\Demo.Entity.Class\obj\Release\net8.0\Demo.Entity.Class.dll
+D:\Demo\Demo.Entity.Class\obj\Release\net8.0\refint\Demo.Entity.Class.dll
+D:\Demo\Demo.Entity.Class\obj\Release\net8.0\Demo.Entity.Class.pdb
+D:\Demo\Demo.Entity.Class\obj\Release\net8.0\ref\Demo.Entity.Class.dll

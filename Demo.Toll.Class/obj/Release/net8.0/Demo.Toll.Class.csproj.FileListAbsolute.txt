@@ -1,0 +1,12 @@
+D:\Demo\Demo.Toll.Class\bin\Release\net8.0\Demo.Toll.Class.deps.json
+D:\Demo\Demo.Toll.Class\bin\Release\net8.0\Demo.Toll.Class.dll
+D:\Demo\Demo.Toll.Class\bin\Release\net8.0\Demo.Toll.Class.pdb
+D:\Demo\Demo.Toll.Class\obj\Release\net8.0\Demo.Toll.Class.csproj.AssemblyReference.cache
+D:\Demo\Demo.Toll.Class\obj\Release\net8.0\Demo.Toll.Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\Demo.Toll.Class\obj\Release\net8.0\Demo.Toll.Class.AssemblyInfoInputs.cache
+D:\Demo\Demo.Toll.Class\obj\Release\net8.0\Demo.Toll.Class.AssemblyInfo.cs
+D:\Demo\Demo.Toll.Class\obj\Release\net8.0\Demo.Toll.Class.csproj.CoreCompileInputs.cache
+D:\Demo\Demo.Toll.Class\obj\Release\net8.0\Demo.Toll.Class.dll
+D:\Demo\Demo.Toll.Class\obj\Release\net8.0\refint\Demo.Toll.Class.dll
+D:\Demo\Demo.Toll.Class\obj\Release\net8.0\Demo.Toll.Class.pdb
+D:\Demo\Demo.Toll.Class\obj\Release\net8.0\ref\Demo.Toll.Class.dll

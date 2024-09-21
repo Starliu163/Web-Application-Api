@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Demo\\WebApplicationIterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|d:\\demo\\webapplicationiterface\\demo.business.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|solutionrelative:demo.business.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|d:\\demo\\webapplicationiterface\\demo.business.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|solutionrelative:demo.business.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|d:\\demo\\webapplicationiterface\\demo.business.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|solutionrelative:demo.business.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|d:\\demo\\webapplicationiterface\\demo.business.api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|solutionrelative:demo.business.api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|d:\\demo\\webapplicationiterface\\demo.business.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|solutionrelative:demo.business.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|d:\\demo\\webapplicationiterface\\demo.business.api\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|solutionrelative:demo.business.api\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|d:\\demo\\webapplicationiterface\\demo.business.api\\services\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|solutionrelative:demo.business.api\\services\\purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|d:\\demo\\webapplicationiterface\\demo.business.api\\services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|solutionrelative:demo.business.api\\services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|d:\\demo\\webapplicationiterface\\demo.business.api\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|solutionrelative:demo.business.api\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|d:\\demo\\webapplicationiterface\\demo.business.api\\demo.business.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|solutionrelative:demo.business.api\\demo.business.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|d:\\demo\\webapplicationiterface\\demo.business.api\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|solutionrelative:demo.business.api\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC19059-0731-4E57-A065-185333E2480D}|Demo.Entity.Class\\Demo.Entity.Class.csproj|d:\\demo\\webapplicationiterface\\demo.entity.class\\purchase_store_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC19059-0731-4E57-A065-185333E2480D}|Demo.Entity.Class\\Demo.Entity.Class.csproj|solutionrelative:demo.entity.class\\purchase_store_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|d:\\demo\\webapplicationiterface\\demo.business.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C62DE6C-3C01-4303-9771-90847BFE660A}|Demo.Business.Api\\Demo.Business.Api.csproj|solutionrelative:demo.business.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "Demo.Business.Api\\Controllers\\SupplierController.cs",
+              "ToolTip": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "Demo.Business.Api\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:03:08.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoreService.cs",
+              "DocumentMoniker": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Services\\StoreService.cs",
+              "RelativeDocumentMoniker": "Demo.Business.Api\\Services\\StoreService.cs",
+              "ToolTip": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Services\\StoreService.cs",
+              "RelativeToolTip": "Demo.Business.Api\\Services\\StoreService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:33:43.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "Demo.Business.Api\\Services\\SupplierService.cs",
+              "ToolTip": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Services\\SupplierService.cs",
+              "RelativeToolTip": "Demo.Business.Api\\Services\\SupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:33:38.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Demo.Business.Api\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Services\\AuthService.cs",
+              "RelativeToolTip": "Demo.Business.Api\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:11:27.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Demo.Business.Api\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Demo.Business.Api\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwDAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:17:21.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Demo.Business.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Demo.Business.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T03:12:49.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.Business.Api\\appsettings.json",
+              "ToolTip": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\appsettings.json",
+              "RelativeToolTip": "Demo.Business.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T03:12:21.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PurchaseService.cs",
+              "DocumentMoniker": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Services\\PurchaseService.cs",
+              "RelativeDocumentMoniker": "Demo.Business.Api\\Services\\PurchaseService.cs",
+              "ToolTip": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Services\\PurchaseService.cs",
+              "RelativeToolTip": "Demo.Business.Api\\Services\\PurchaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:33:49.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeviceService.cs",
+              "DocumentMoniker": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Services\\DeviceService.cs",
+              "RelativeDocumentMoniker": "Demo.Business.Api\\Services\\DeviceService.cs",
+              "ToolTip": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Services\\DeviceService.cs",
+              "RelativeToolTip": "Demo.Business.Api\\Services\\DeviceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:33:23.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Purchase_Store_Info.cs",
+              "DocumentMoniker": "D:\\Demo\\WebApplicationIterface\\Demo.Entity.Class\\Purchase_Store_Info.cs",
+              "RelativeDocumentMoniker": "Demo.Entity.Class\\Purchase_Store_Info.cs",
+              "ToolTip": "D:\\Demo\\WebApplicationIterface\\Demo.Entity.Class\\Purchase_Store_Info.cs",
+              "RelativeToolTip": "Demo.Entity.Class\\Purchase_Store_Info.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:06:10.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "Demo.Business.Api\\Controllers\\DeviceController.cs",
+              "ToolTip": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "Demo.Business.Api\\Controllers\\DeviceController.cs",
+              "ViewState": "AQIAAAMAAADAzMzMzMwQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:06:18.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Demo.Business.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Demo.Business.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-19T03:13:14.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Demo.Business.Api.csproj",
+              "DocumentMoniker": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Demo.Business.Api.csproj",
+              "RelativeDocumentMoniker": "Demo.Business.Api\\Demo.Business.Api.csproj",
+              "ToolTip": "D:\\Demo\\WebApplicationIterface\\Demo.Business.Api\\Demo.Business.Api.csproj",
+              "RelativeToolTip": "Demo.Business.Api\\Demo.Business.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T06:39:23.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
